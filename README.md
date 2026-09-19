@@ -6,7 +6,7 @@ I explore large language models and AI agents by studying systems, building smal
 
 ## Current interests
 
-LLMs & agents · Coding agent systems · Open-source ML tools
+LLMs & agents · Coding agent systems · Neuromorphic Computing · Open-source ML tools
 
 ## Selected projects
 
@@ -14,9 +14,8 @@ LLMs & agents · Coding agent systems · Open-source ML tools
   An independent learning project exploring coding agent architecture through bilingual guides and runnable Python experiments.  
   <sub>Agent loops · Tool use · Context & memory · MCP</sub>
 
-- **[Microsoft / StepFly](https://github.com/microsoft/StepFly)** · Contributor  
+- **[Microsoft / StepFly](https://github.com/microsoft/StepFly)** · Co-author  
   A multi-agent framework for automated troubleshooting.  
-  <sub>My contribution: improved README navigation, demo rendering, and accessibility. [Merged PR #13](https://github.com/microsoft/StepFly/pull/13)</sub>
 
 - **[OpenClaw](https://github.com/openclaw/openclaw)** · Contributor  
   A personal AI assistant that connects tools and messaging platforms.  
