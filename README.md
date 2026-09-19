@@ -25,12 +25,4 @@ LLMs & agents · Coding agent systems · Neuromorphic Computing · Open-source M
   A deep learning framework written in Rust.  
   <sub>My contribution: fixed PyTorch checkpoint loading for non-contiguous tensors. [Merged PR #5392](https://github.com/tracel-ai/burn/pull/5392)</sub>
 
-- **[Simon Willison / LLM](https://github.com/simonw/llm)** · Contributor  
-  A command-line tool and Python library for working with language models.  
-  <sub>My contribution: added attachment validation to conversation prompts. [Merged PR #1628](https://github.com/simonw/llm/pull/1628)</sub>
-
-- **[oh-my-pi](https://github.com/can1357/oh-my-pi)** · Contributor  
-  A coding agent with integrated development tools.  
-  <sub>My contribution: made oversized-line omissions explicit in file reads. [Merged PR #10798](https://github.com/can1357/oh-my-pi/pull/10798)</sub>
-
 [More open-source contributions →](https://github.com/pulls?q=is%3Apr+author%3Aoriginal4422+is%3Amerged+-user%3Aoriginal4422)
