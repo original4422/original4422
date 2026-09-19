@@ -15,7 +15,8 @@ LLMs & agents · Coding agent systems · Neuromorphic Computing · Open-source M
   <sub>Agent loops · Tool use · Context & memory · MCP</sub>
 
 - **[Microsoft / StepFly](https://github.com/microsoft/StepFly)** · Co-author  
-  A multi-agent framework for automated troubleshooting.  
+  Turning troubleshooting expertise into reusable agent capabilities and graph-orchestrated workflows.  
+  <sub>Reusable skills · Graph Engineering · Multi-agent systems</sub>
 
 - **[OpenClaw](https://github.com/openclaw/openclaw)** · Contributor  
   A personal AI assistant that connects tools and messaging platforms.  
