@@ -1,6 +1,6 @@
 # Hi, I'm Daniel.
 
-I'm a student at the [Center for Brain-Inspired Computing Research (CBICR)](https://www.cbicr.tsinghua.edu.cn/en), **Tsinghua University**.
+I'm a student at the Center for Brain-Inspired Computing Research (CBICR), **Tsinghua University**.
 
 I explore large language models and AI agents by studying systems, building small experiments, and contributing to open source.
 
