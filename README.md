@@ -20,7 +20,8 @@ LLMs & agents · Coding agent systems · Neuromorphic Computing · Open-source M
 
 - **[OpenClaw](https://github.com/openclaw/openclaw)** · Contributor  
   A personal AI assistant that connects tools and messaging platforms.  
-  <sub>My contributions: enabled cache-TTL context pruning for eligible OpenAI routes ([#127992](https://github.com/openclaw/openclaw/pull/127992)); preserved long Slack replies without silent truncation ([#127994](https://github.com/openclaw/openclaw/pull/127994)). Both PRs merged.</sub>
+  <sub>My contributions: enabled cache-TTL context pruning for eligible OpenAI routes ([#127992](https://github.com/openclaw/openclaw/pull/127992)); 
+  preserved long Slack replies without silent truncation ([#127994](https://github.com/openclaw/openclaw/pull/127994)).
 
 - **[Burn](https://github.com/tracel-ai/burn)** · Contributor  
   A deep learning framework written in Rust.  
